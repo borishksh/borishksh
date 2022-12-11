@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/borishksh/borishksh/blob/main/developer_small.jpg" align="center" style="width: 100%" />
+<img src="https://photos.app.goo.gl/daPby6zMPtDm1NMBA" align="center" style="width: 100%" />
 </div>  
 
 <h1 align="center">Hi 👋, I'm Borish Kshetrimayum</h1>
