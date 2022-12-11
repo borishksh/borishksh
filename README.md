@@ -72,19 +72,19 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/https://github.com/borishksh" target="_blank">
+<a href="https://github.com/borishksh" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/borish-kshetrimayum-8a753720b/" target="_blank">
+<a href="https://www.linkedin.com/in/borish-kshetrimayum-8a753720b/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/https://www.instagram.com/borish_ksh/" target="_blank">
+<a href="https://www.instagram.com/borish_ksh/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.kaggle.com/https://www.kaggle.com/pantheragaming" target="_blank">
+<a href="https://www.kaggle.com/pantheragaming" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/12443226/borish" target="_blank">
+<a href="https://stackoverflow.com/users/12443226/borish" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 </div>  
