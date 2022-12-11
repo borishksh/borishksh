@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://github.com/borishksh/borishksh/blob/main/developer.jpg" align="center" style="width: 100%" />
+</div>  
+
 <h1 align="center">Hi 👋, I'm Borish Kshetrimayum</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="300" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/200w.gif?cid=6c09b952mykzfrkmd7zln0foehwxxypmhdes2wf6vt033wmd&rid=200w.gif&ct=g">
