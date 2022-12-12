@@ -1,5 +1,5 @@
 <div align="center" >
-<img src="https://free4kwallpapers.com/uploads/wallpaper/minimal-dark-coding-wallpaper-2560x1440-wallpaper.jpg" align="center"  style="width: 100%; height: 350px" />
+<img src="https://user-images.githubusercontent.com/30441818/207036482-97b61e82-d191-4ac0-9e6a-f975973f1246.png" align="center"  style="width: 100%;" />
 </div>  
 
 <h1 align="center">Hi 👋, I'm Borish Kshetrimayum</h1>
