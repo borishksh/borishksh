@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [Linkedin](https://www.linkedin.com/in/borish-kshetrimayum-8a753720b/)
+- 👨‍💻 All of my projects are available at [Linkedin]()
 
 - 📫 How to reach me **borishksh04@gmail.com**
 
